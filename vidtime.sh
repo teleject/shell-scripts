@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Description: Loops through all .mp4 files to find total length of time
+# Description: Loops through all .mp4 files in a folder to find total length of time
 
 function show_time () {
     num=$1
